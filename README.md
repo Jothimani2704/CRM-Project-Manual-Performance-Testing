@@ -8,10 +8,10 @@ This repository showcases the comprehensive testing efforts conducted on our CRM
 
 # Manual Testing
 # Introduction
-Our manual testing endeavors played a pivotal role in validating software behavior, user interactions, and system functionality within the CRM project. By meticulously planning test cases, executing them, and tracking defects, we ensured the delivery of a high-quality software product.
+Our manual testing endeavours played a pivotal role in validating software behaviour, user interactions, and system functionality within the CRM project. By meticulously planning test cases, executing them, and tracking defects, we ensured the delivery of a high-quality software product.
 
-My Work in CRM Project Manual Testing Testcase Document Link:
-[Have a Look at it] (https://docs.google.com/spreadsheets/d/1t-MHTCvAhWELXW4mrkqi5bCYsddv50I0gvmbSHj_qV8/edit?usp=drive_link)
+# My Work in CRM Project Manual Testing Testcase Document Link:
+[Have a Look at it] (https://docs.google.com/spreadsheets/d/1USvX6NwVLKVwDFGaXvXjHiPAFpcuq0ZZBJKDvBsc-p0/edit?usp=sharing)
 
 # Manual Testing Process
 We meticulously planned our manual testing process, from test case creation to execution and defect tracking. This systematic approach allowed us to identify and rectify issues efficiently, contributing to the overall reliability and usability of the CRM application.
@@ -27,16 +27,16 @@ Our manual testing experience significantly contributed to the quality and relia
 
 # Performance Testing 
 # Overview
-This section presents the findings and methodologies from performance testing conducted on both the API server-side and Web Assembly (WASM) front-end of our CRM project. The purpose of these tests was to evaluate system performance under various loads and scenarios, ensuring optimal user experience and system stability.
+This section presents the findings and methodologies from performance testing conducted on both the API server-side and Web Assembly (WASM) front end of our CRM project. The purpose of these tests was to evaluate system performance under various loads and scenarios, ensuring optimal user experience and system stability.
 
 # My Work in CRM Project Performance Testing Document Link:
 [Have a Look at it] (https://docs.google.com/spreadsheets/d/1t-MHTCvAhWELXW4mrkqi5bCYsddv50I0gvmbSHj_qV8/edit?usp=drive_link)
 
 # API Server-side Performance Testing
-We meticulously assessed the server's response time, throughput, and resource utilization under varying loads and concurrent user interactions. The performance testing on the API server side provided valuable insights into system efficiency and scalability.
+We meticulously assessed the server's response time, throughput, and resource utilization under varying loads and concurrent user interactions. The performance testing on the API server-side provided valuable insights into system efficiency and scalability.
 
 # WASM Front-end Performance Testing
-We evaluated the rendering speed, client-side processing efficiency, and overall responsiveness of the user interface through performance testing on the WASM front-end. This assessment helped optimize user experience and identify areas for improvement in front-end performance.
+We evaluated the rendering speed, client-side processing efficiency, and overall responsiveness of the user interface through performance testing on the WASM front end. This assessment helped optimize user experience and identify areas for improvement in front-end performance.
 
 # Methodology
 Detailed methodologies, tools used, test scenarios created, and metrics measured during the performance testing phase are outlined in this section. Our approach ensured comprehensive and accurate assessments of system performance.
