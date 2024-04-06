@@ -27,7 +27,7 @@ Our manual testing experience significantly contributed to the quality and relia
 
 # Performance Testing 
 # Overview
-This section presents the findings and methodologies from performance testing conducted on both the API server-side and Web Assembly (WASM) front end of our CRM project. The purpose of these tests was to evaluate system performance under various loads and scenarios, ensuring optimal user experience and system stability.
+This section presents the findings and methodologies from performance testing conducted on both the API server-side and Web Assembly (WASM) front end of our CRM project. Using industry-standard tools such as JMeter and BlazeMeter, we meticulously evaluated system performance under various loads and scenarios. The purpose of these tests was to ensure optimal user experience and system stability by identifying potential bottlenecks and areas for improvement.
 
 # My Work in CRM Project Performance Testing Document Link:
 [Have a Look at it] (https://docs.google.com/spreadsheets/d/1t-MHTCvAhWELXW4mrkqi5bCYsddv50I0gvmbSHj_qV8/edit?usp=drive_link)
