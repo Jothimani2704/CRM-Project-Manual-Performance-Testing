@@ -1,6 +1,6 @@
 # CRM Project Testing Experience
 # Overview
-This repository showcases the comprehensive testing efforts conducted on our CRM (Customer Relationship Management) project. It encompasses both manual testing, which ensures reliability, functionality, and usability, and performance testing, aimed at evaluating system efficiency and stability. Our testing methodologies, tools, and integration with Jira are highlighted to provide a holistic view of our quality assurance process.
+CRM (Customer Relationship Management) project. It encompasses both manual testing, which ensures reliability, functionality, and usability, and performance testing, aimed at evaluating system efficiency and stability. Our testing methodologies, tools, and integration with Jira are highlighted to provide a holistic view of our quality assurance process.
 
 # Contents
 * Manual Testing 
